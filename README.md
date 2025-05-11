@@ -1,4 +1,6 @@
-# iniciativas_sustentables
+# Iniciativas Sustentables
+
+> Demo de página de busqueda y alta de propuestas de iniciativas sustentables a nivel nacional e internacional
 
 ## Project setup
 ```
