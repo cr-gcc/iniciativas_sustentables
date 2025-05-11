@@ -1,0 +1,472 @@
+[
+  { 
+    "id": 0,
+    "name":"Iniciativas institucionales",
+    "value":600,
+    "color": "#14383D",
+    "children":[
+      /*  
+      { "id":0, 
+        "name":"Educación para la sustentabilidad",
+        "value": 200,
+        "color": "#1F545B"
+      },
+      */
+      { "id":"P2", 
+        "name":"Investigación e innovación para la sustentabilidad",
+        "value": 200,
+        "color": "#348C98",
+        "children":[  
+          { 
+            "id":"ED3",
+            "name":"Escuela Nacional de Estudios Superiores-Unidad Morelia",
+            "value":100
+          },
+          { 
+            "id":"ED5",
+            "name":"Facultad de Ciencias",
+            "value":100
+          },
+          { 
+            "id":"ED7",
+            "name":"Instituto de Ciencias del Mar y Limnología",
+            "value":100
+          },
+          { 
+            "id":"ED11",
+            "name":"Instituto de Investigaciones en Ecosistemas y Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED15",
+            "name":"Unidad Multidisciplinaria de Docencia e Investigación",
+            "value":100
+          },
+          { 
+            "id":"ED16",
+            "name":"Facultad de Estudios Superiores Iztacala",
+            "value":100
+          },
+          { 
+            "id":"ED19",
+            "name":"Facultad de Estudios Superiores Cuautitlán",
+            "value":100
+          },
+          { 
+            "id":"ED21",
+            "name":"Centro Regional de Investigaciones Multidisciplinarias UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED22",
+            "name":"Programa Universitario de Manejo, Uso y Reuso del Agua en la UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED23",
+            "name":"Dirección General de Servicios Generales y Movilidad",
+            "value":100
+          },
+          { 
+            "id":"ED24",
+            "name":"Tu Tienda UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED26",
+            "name":"Instituto de Química",
+            "value":100
+          },
+          { 
+            "id":"ED33",
+            "name":"Facultad de Artes y Diseño ",
+            "value":100
+          },
+          { 
+            "id":"ED40",
+            "name":"Programa de Investigación en Cambio Climático",
+            "value":100
+          },
+          { 
+            "id":"ED65",
+            "name":"AUN NO ESTA",
+            "value":100
+          }
+        ]
+      },
+      { "id":"P3", 
+        "name":"Ordenamiento, áreas verdes y reservas naturales",
+        "value": 200,
+        "color": "#529FA3",
+        "children":[  
+          { 
+            "id":"ED3",
+            "name":"Escuela Nacional de Estudios Superiores-Unidad Morelia",
+            "value":100
+          },
+          { 
+            "id":"ED5",
+            "name":"Facultad de Ciencias",
+            "value":100
+          },
+          { 
+            "id":"ED6",
+            "name":"Instituto de Biología",
+            "value":100
+          },
+          { 
+            "id":"ED7",
+            "name":"Instituto de Ciencias del Mar y Limnología",
+            "value":100
+          },
+          { 
+            "id":"ED16",
+            "name":"Facultad de Estudios Superiores Iztacala",
+            "value":100
+          },
+          { 
+            "id":"ED17",
+            "name":"Escuela Nacional Preparatoria 2 Erasmo Castellanos Quinto Superiores Iztacala",
+            "value":100
+          },
+          { 
+            "id":"ED18",
+            "name":"Centro de Enseñanza para Extranjeros Campus Taxco",
+            "value":100
+          },
+          { 
+            "id":"ED19",
+            "name":"Facultad de Estudios Superiores Cuautitlán",
+            "value":100
+          },
+          { 
+            "id":"ED25", 
+            "name":"Dirección General de Obras y Conservación",
+            "value":100
+          },
+          { 
+            "id":"ED33",
+            "name":"Facultad de Artes y Diseño ",
+            "value":100
+          },
+          { 
+            "id":"ED65",
+            "name":"AUN NO ESTA",
+            "value":100
+          },
+        ]
+      },
+      /*
+      { "id":"P4", 
+        "name":"Edificaciones sustentables",
+        "value": 200,
+        "color": "#75BEBB",
+        
+        "children":[  
+          { 
+            "id":40, 
+            "name":"E1",
+            "value":100
+          },
+          { 
+            "id":41, 
+            "name":"E2",
+            "value":100
+          },
+          { 
+            "id":40, 
+            "name":"E1",
+            "value":100
+          },
+          { 
+            "id":41, 
+            "name":"E2",
+            "value":100
+          },
+          { 
+            "id":40, 
+            "name":"E1",
+            "value":100
+          },
+          { 
+            "id":41, 
+            "name":"E2",
+            "value":100
+          },
+        ]
+      },*/
+      { "id":"P5", 
+        "name":"Compromiso institucional para la sustentabilidad",
+        "value": 200,
+        "color": "#349C30",
+        "children":[  
+          { 
+            "id":"ED1", 
+            "name":"Coordinación Universitaria para la Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED18",
+            "name":"Centro de Enseñanza para Extranjeros Campus Taxco",
+            "value":100
+          },
+          { 
+            "id":"ED21", 
+            "name":"Centro Regional de Investigaciones Multidisciplinarias UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED28", 
+            "name":"Rectoría",
+            "value":100
+          },
+          { 
+            "id":"ED35", 
+            "name":"Centro de Geociencias",
+            "value":100
+          },
+          { 
+            "id":"ED16",
+            "name":"Facultad de Estudios Superiores Iztacala",
+            "value":100
+          },
+          { 
+            "id":"ED25", 
+            "name":"Dirección General de Obras y Conservación",
+            "value":100
+          },
+        ]
+      },
+      { "id":"P6", 
+        "name":"Manejo integral de residuos",
+        "value": 200,
+        "color": "#589A32",
+        "children":[  
+          { 
+            "id":"ED16",
+            "name":"Facultad de Estudios Superiores Iztacala",
+            "value":100
+          },
+          { 
+            "id":"ED25", 
+            "name":"Dirección General de Obras y Conservación",
+            "value":100
+          },
+          { 
+            "id":"ED26", 
+            "name":"Instituto de Química",
+            "value":100
+          },
+          { 
+            "id":"ED27", 
+            "name":"Dirección General de Atención a la Comunidad",
+            "value":100
+          },
+          { 
+            "id":"ED28", 
+            "name":"Rectoría",
+            "value":100
+          }
+        ]
+      },
+      { "id":"P7", 
+        "name":"Manejo integral del agua",
+        "value": 200,
+        "color": "#019477",
+        "children":[  
+          { 
+            "id":"ED21",
+            "name":"Centro Regional de Investigaciones Multidisciplinarias UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED22",
+            "name":"Programa Universitario de Manejo, Uso y Reuso del Agua en la UNAM",
+            "value":100
+          },
+        ]
+      },
+      { "id":"P8", 
+        "name":"Movilidad sustentable",
+        "value": 200,
+        "color": "#63BB99",
+        "children":[  
+          { 
+            "id":"ED11",
+            "name":"Instituto de Investigaciones en Ecosistemas y Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED23",
+            "name":"Dirección General de Servicios Generales y Movilidad",
+            "value":100
+          },
+        ]
+      },
+      { "id":"P9", 
+        "name":"Consumo sustentable",
+        "value": 200,
+        "color": "#40762D",
+        "children":[  
+          { 
+            "id":"ED1", 
+            "name":"Coordinación Universitaria para la Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED24",
+            "name":"Tu Tienda UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED36",
+            "name":"Centro de Investigaciones en Geografía Ambiental",
+            "value":100
+          },
+        ]
+      },
+      { "id":"P10", 
+        "name":"Participacion para la sustentabilidad",
+        "value": 200,
+        "color": "#B9E2A2",
+        "children":[  
+          { 
+            "id":"ED1", 
+            "name":"Coordinación Universitaria para la Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED4", 
+            "name":"Facultad de Arquitectura",
+            "value":100
+          },
+          { 
+            "id":"ED11", 
+            "name":"Instituto de Investigaciones en Ecosistemas y Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED16", 
+            "name":"Facultad de Estudios Superiores Iztacala",
+            "value":100
+          },
+          { 
+            "id":"ED18", 
+            "name":"Centro de Enseñanza para Extranjeros Campus Taxco",
+            "value":100
+          },
+          { 
+            "id":"ED19",
+            "name":"Facultad de Estudios Superiores Cuautitlán",
+            "value":100
+          },
+          { 
+            "id":"ED21",
+            "name":"Centro Regional de Investigaciones Multidisciplinarias UNAM",
+            "value":100
+          },
+          { 
+            "id":"ED31",
+            "name":"Dirección General del Deporte Universitario",
+            "value":100
+          },
+          { 
+            "id":"ED33",
+            "name":"Facultad de Artes y Diseño",
+            "value":100
+          },
+          { 
+            "id":"ED34",
+            "name":"Centro de Ciencias de la Atmósfera",
+            "value":100
+          },
+          { 
+            "id":"ED38",
+            "name":"Escuela Nacional de Trabajo Social UNAM",
+            "value":100
+          },
+        ]
+      },
+      { "id":"P11", 
+        "name":"Difusión, divulgación y arte para la sustentabilidad",
+        "value": 200,
+        "color": "#65B751",
+        "children":[  
+          { 
+            "id":"ED5",
+            "name":"Facultad de Ciencias",
+            "value":100
+          },
+          { 
+            "id":"ED6",
+            "name":"Instituto de Biología",
+            "value":100
+          },
+          { 
+            "id":"ED7",
+            "name":"Instituto de Ciencias del Mar y Limnología",
+            "value":100
+          },
+          { 
+            "id":"ED9",
+            "name":"Instituto de Energías Renovables",
+            "value":100
+          },
+          { 
+            "id":"ED11",
+            "name":"Instituto de Investigaciones en Ecosistemas y Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED17",
+            "name":"Escuela Nacional Preparatoria 2 Erasmo Castellanos Quinto",
+            "value":100
+          },
+          { 
+            "id":"ED18",
+            "name":"Centro de Enseñanza para Extranjeros Campus Taxco",
+            "value":100
+          },
+          { 
+            "id":"ED19",
+            "name":"Facultad de Estudios Superiores Cuautitlán",
+            "value":100
+          },
+          { 
+            "id":"ED30",
+            "name":"Museo Universitario de Ciencias y Arte",
+            "value":100
+          },
+        ]
+      },
+      { "id":"P12", 
+        "name":"Alinzas Internacionales",
+        "value": 200,
+        "color": "#65B751",
+        "children":[  
+          { 
+            "id":"ED1",
+            "name":"Coordinación Universitaria para la Sustentabilidad",
+            "value":100
+          },
+          { 
+            "id":"ED28",
+            "name":"Rectoría",
+            "value":100
+          },
+          { 
+            "id":"ED35",
+            "name":"Centro de Geociencias",
+            "value":100
+          },
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name":"Iniciativas estudiantiles",
+    "value":500,
+    "color": "#2E86C1",
+  }
+]
